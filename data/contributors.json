@@ -7,6 +7,10 @@
       "github_user": "lucasmfb"
   },
   {
+        "name": "Sheila paiva",
+        "github_user": "sheilapaiva"
+   },
+ {
         "name": "Marcos Silva",
         "github_user": "marcossilvaxx"
   },
@@ -37,15 +41,15 @@
   {  
 		"name": "Pedro Donato",
 		"github_user": "PedroDCN"
-  },
+	},
 	{
 		"name": "Vinicius Barbosa",
 		"github_user": "viniciusbds"
 	},
-  {      
-    "name": "Izabella Ribeiro",
-    "github_user": "izabri"
-  },
+	{
+		"name": "Izabella Ribeiro",
+		"github_user": "izabri"
+	},
 	{
 		"name": "Anderson dos Santos",
 		"github_user": "andersonstv"
@@ -119,5 +123,18 @@
 	{
 		"name": "Ana Beatriz Truta",
 		"github_user": "beatriztruta"
+	},
+  {
+      "name": "Gabriel Mareco",
+      "github_user": "gabrielmbs"
+  },
+	{
+		"name": "Rich Elton",
+		"github_user": "rickecr"
+	},
+	{
+		"name": "Luis Eduardo Mafra",
+		"github_user": "luismafra"
 	}
 ]
+
