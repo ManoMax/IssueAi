@@ -110,6 +110,16 @@
             ]
         },
         {
+            "name": "matheusps/adapt-ui",
+            "difficulty": "avancado",
+            "mentors": [
+                {
+                    "name": "Matheusps",
+                    "imgUrl": "https://github.com/matheusps.png"
+                }
+            ]
+        },
+        {
             "name": "Guardians-DSC/horarios-ufcg",
             "difficulty": "intermediario",
             "mentors": [
@@ -126,6 +136,16 @@
                 {
                     "name": "Douglas Lima",
                     "imgUrl": "https://github.com/douglaslimaxx.png"
+                }
+            ]
+        },
+        {
+            "name": "juliafealves/deciframe-pwa",
+            "difficulty": "intermediario",
+            "mentors": [
+                {
+                    "name": "juliafealves",
+                    "imgUrl": "https://github.com/juliafealves.png"
                 }
             ]
         },
